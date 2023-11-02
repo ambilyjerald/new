@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="style.css" type="text/css" rel="stylesheet">
+        
+    </head>
+    <body>
+        <h1>hai....</h1>
+        <p>
+            <i>heading</i>Lorem Ipsum is simply <u>hhhhh</u>dummy text of the printing<br> and typesetting industry. Lorem Ipsum has been the industry's standard dummy text <br>ever since the 1500s, when an unknown printer took a galley of type and scrambled<br> it to make a type specimen book. It has survived not only five centuries
+        </p>
+        <img src="https://cdn.pixabay.com/photo/2015/04/19/08/32/marguerite-729510_1280.jpg">
+       <img src="https://media.istockphoto.com/id/1321518288/photo/beautiful-spring-flowers-flying-in-the-air-against-teal-background-creative-spring-floral.jpg?b=1&s=170667a&w=0&k=20&c=AonzogjRv4kpW7o2fnXJHVHETRk0DK3MTz6qwyG5RYk=">
+        <a href="http://google.com">click me</a>
+        <br>
+        <a href="hai1.html">second page</a>
+        <br>
+        <button> Click here</button>
+        
+    </body>
+</html>
